@@ -88,15 +88,6 @@ export function Home() {
                   <td>{client.coordinateY}</td>
                 </tr>
               ))}
-
-              {/*<tr>
-                <td>1 º</td>
-                <td>João</td>
-                <td>joao@gmail.com</td>
-                <td>31984028894</td>
-                <td>5</td>
-                <td>5</td>
-                </tr>*/}
             </tbody>
           </Table>
         </div>
